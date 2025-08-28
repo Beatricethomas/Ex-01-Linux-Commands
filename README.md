@@ -223,9 +223,20 @@ The find command is used to find a particular file within a directory.
 Syntax: find.-name”*.pdf”
 
 
-
-
-
+## OUTPUT:
+<img width="334" height="117" alt="uname" src="https://github.com/user-attachments/assets/b41f1f72-23ac-44f8-a0eb-2a5819c8f5cb" />
+<br> <br> <br>
+<img width="441" height="85" alt="ls" src="https://github.com/user-attachments/assets/0bf806b6-8d30-4305-9809-1d866409e7ef" /> 
+<br> <br> <br>
+<img width="490" height="105" alt="pwd" src="https://github.com/user-attachments/assets/e1778059-9d03-47bc-b29e-c750e9df70d0" /> 
+<br> <br> <br>
+<img width="261" height="50" alt="mkdircomm" src="https://github.com/user-attachments/assets/9f2bad9e-4e06-43f3-bec6-5fb032283c91" />
+<br><br><br>
+<img width="391" height="54" alt="cd" src="https://github.com/user-attachments/assets/d0f829a6-f389-46c9-acf9-6fb02b62fce9" />
+<br><br><br>
+<img width="376" height="67" alt="cat" src="https://github.com/user-attachments/assets/e324b7c1-096c-4f8d-808e-297e70959a4c" />
+<br><br><br>
+<img width="388" height="42" alt="cp" src="https://github.com/user-attachments/assets/d7f9596f-08f0-4fd3-93f8-7214a001b635" />
 
 
 
