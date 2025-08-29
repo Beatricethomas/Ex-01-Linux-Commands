@@ -256,7 +256,8 @@ Syntax: find.-name”*.pdf”
 <br><br><br>
 <img width="610" height="52" alt="clear" src="https://github.com/user-attachments/assets/e1552524-6add-4a5c-9c36-610490a983b3" />
 <br> <br>
-![WhatsApp Image 2025-08-29 at 22 17 48_61d4c4c9](https://github.com/user-attachments/assets/0eab58f8-afdd-419f-8a73-e0998e7197f0)
+<img width="339" height="178" alt="cal" src="https://github.com/user-attachments/assets/6d3adea9-167a-4ec7-ab36-38e3e6f9754b" />
+
 
 
 
