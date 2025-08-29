@@ -237,6 +237,26 @@ Syntax: find.-name”*.pdf”
 <img width="376" height="67" alt="cat" src="https://github.com/user-attachments/assets/e324b7c1-096c-4f8d-808e-297e70959a4c" />
 <br><br><br>
 <img width="388" height="42" alt="cp" src="https://github.com/user-attachments/assets/d7f9596f-08f0-4fd3-93f8-7214a001b635" />
+<br><br><br>
+<img width="341" height="57" alt="chmod" src="https://github.com/user-attachments/assets/35cca12b-2db5-4987-b194-445941d4710a" />
+<br><br><br>
+<img width="830" height="208" alt="df" src="https://github.com/user-attachments/assets/d219c51a-9203-433a-8aad-3e6afe1c10e0" />
+<br><br><br>
+<img width="342" height="208" alt="head" src="https://github.com/user-attachments/assets/b0668767-0600-4158-b53d-3321ab7f1d38" />
+<br><br><br>
+<img width="312" height="195" alt="tail" src="https://github.com/user-attachments/assets/8a05638c-7afe-4925-89e5-cfcce723981e" />
+<br><br><br>
+<img width="405" height="69" alt="tr" src="https://github.com/user-attachments/assets/9f94cc93-e088-4c3c-901c-2e8d13adc430" />
+<br><br><br>
+<img width="343" height="154" alt="mv" src="https://github.com/user-attachments/assets/ae27d987-b05a-4917-9547-06a8d0091924" />
+<br><br><br>
+<img width="637" height="105" alt="id" src="https://github.com/user-attachments/assets/98352c8c-d759-4546-a925-077a9e302ad9" />
+<br><br><br>
+<img width="381" height="95" alt="rmdir" src="https://github.com/user-attachments/assets/27532ba8-6019-46dd-a471-a044e7b65d3f" />
+<br><br><br>
+<img width="610" height="52" alt="clear" src="https://github.com/user-attachments/assets/e1552524-6add-4a5c-9c36-610490a983b3" />
+
+
 
 
 
